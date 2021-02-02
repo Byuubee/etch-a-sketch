@@ -1,7 +1,5 @@
 # Etch a Sketch
-
-In compliance to theodinproject
-https://www.theodinproject.com/courses/foundations/lessons/etch-a-sketch-project
+This project is from [theodinproject](https://www.theodinproject.com/courses/foundations/lessons/etch-a-sketch-project).
 
 
 ## What I learned
