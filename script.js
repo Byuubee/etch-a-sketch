@@ -21,12 +21,6 @@ function makeGrid(size){
         function changeDivColor(){
             gridItem.classList.add('colored');
             gridItem.style.setProperty('--color', colorPicker.value);
-
-            colorPicker.oninput = function(){
-            if(gridItem.classList.contains('colored')){
-                gridItem.style.setProperty('--color', this.value)
-            }
-        }
         });
     }
 }
